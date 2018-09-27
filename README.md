@@ -1,7 +1,7 @@
 # eggs_counting
 
 
-# creating tfrecords
+## creating tfrecords
 
 # for training data:
 python generate_tfrecord.py --csv_input=data/train_labels.csv  --output_path=data/train.record

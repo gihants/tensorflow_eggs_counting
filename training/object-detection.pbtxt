@@ -1,0 +1,8 @@
+item {
+  id: 1
+  name: 'good_egg'
+}
+item {
+  id: 2
+  name: 'bad_egg'
+}
